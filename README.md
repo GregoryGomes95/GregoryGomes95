@@ -4,9 +4,9 @@ Sou o Gregory, hoje atuo com Testes de Software/QA e estou cursando Desenvolvimn
 - Automação de testes;
 - Selenium;
 - Cypress;
-- Desenvolvimento front end, HTML5 e CSS
-- Python e Java
-- Projetos ágeis com SCRUM
+- Desenvolvimento front end, HTML5 e CSS;
+- Python e Java;
+- Projetos ágeis com SCRUM;
 - Etre outros.
 Estou à disposição para colaborar com o que estiver ao meu alcance! E posso ser encontrado pelo e-mail 
 "gregorygomes95@gmail.com"
